@@ -148,3 +148,137 @@ nav ul li a{
     font-weight: 400;
     font-size: 20px;
 }
+.fborder{
+    margin-left: 10px;
+    padding: 10px;
+}
+
+
+.fborder input[ type=text ]{
+   
+   border: 10px solid black;
+   width:150px;
+    
+}
+
+.check{
+    width:100%;
+    height: 1000px;
+    justify-content: center;
+    
+}
+.check h2{
+    font-family: "Mallory";
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.row{
+    width: 100%;
+    height: 400px;
+    
+    padding-left: 60px;
+}
+
+.card{
+    width: 350px;
+    height: 350px;
+    border: 2px solid rgb(169, 8, 8);
+}
+.card-img{
+    width:350px;
+    height: 250px; 
+}
+.card-img img{
+    width:350px;
+    height: 250px;
+}
+.card-body{
+    width: 350px;
+    height: 100px;
+    background-color: rgb(3, 3, 40);
+}
+.card-body h3{
+    font-family: "Mallory";
+    color:rgb(244, 244, 61) ;
+    font-weight: 100;
+    font-size: 25px;
+    font-style: normal;
+}
+.card-body p{
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 100;
+    font-family: "Mallory";
+}
+.popread{
+    width: 100%;
+    height: 900px;
+}
+.popread h2{
+    font-family: "Mallory";
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    
+}
+.popread h4{
+    font-family: "Mallory";
+    margin-bottom: 60px;
+}
+.row2{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cols-6 p{
+    font-size: 20px;
+    text-align: left;
+}
+.cols-6 p:hover{
+    color: rgb(173, 11, 11);
+    transition: all 0.2s ease;
+}
+.hp{
+    font-size: 20px;
+    text-align: center;
+}
+.hp:hover{
+    color: rgb(173, 11, 11);
+    transition: all 0.2s ease;
+}
+.asi{
+    width: 100%;
+    height: 500px;
+}
+.asi h2{
+    font-family: "Mallory";
+    font-weight: 800;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: #021b2b;
+}
+#cc{
+    color: gray;
+    padding-top: 40px;
+    font-size: 18px;
+}
+#pp{
+    color: rgb(161, 159, 159);
+    font-size: 18px;
+}
+#mis{
+    color: gray;
+    padding-bottom: 10px;
+    padding-top: 3px;
+    font-size: 12px;
+}
