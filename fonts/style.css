@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mallory';
+    src: local('Mallory Black'), local('Mallory-Black'),
+        url('Mallory-Black.woff2') format('woff2'),
+        url('Mallory-Black.woff') format('woff'),
+        url('Mallory-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
